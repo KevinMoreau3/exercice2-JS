@@ -1,0 +1,25 @@
+{
+  "author": "Kevin Moreau",
+  "name": "webspider",
+  "version": "1.0.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "async": "~0.2.9",
+    "lodash": "~2.3.0",
+    "request": "~2.27.0",
+    "winston": "~0.7.2",
+    "express": "~3.4.4"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "main": "spider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD-2-Clause"
+}
