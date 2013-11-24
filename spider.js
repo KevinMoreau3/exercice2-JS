@@ -215,3 +215,4 @@ get_page('http://twitter.com/FGRibreau');
 get_page('http://www.google.com');
 get_page('http://facebook.com');
 get_page('http://wikipedia.fr');
+
